@@ -1,0 +1,16 @@
+com\batrits\pojo\Result.class
+com\batrits\pojo\EmpLog.class
+com\batrits\pojo\StudentQueryParam.class
+com\batrits\pojo\Dept.class
+com\batrits\pojo\ClazzQueryParam.class
+com\batrits\pojo\OperateLog.class
+com\batrits\pojo\Emp.class
+com\batrits\pojo\EmpExpr.class
+com\batrits\pojo\LogQueryParam.class
+com\batrits\pojo\Clazz.class
+com\batrits\pojo\Student.class
+com\batrits\pojo\JobOption.class
+com\batrits\pojo\LoginInfo.class
+com\batrits\pojo\PageResult.class
+com\batrits\pojo\StudentCountOption.class
+com\batrits\pojo\EmpQueryParam.class

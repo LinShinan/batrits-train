@@ -1,0 +1,5 @@
+com\batrits\Main.class
+com\batrits\utils\JwtUtils.class
+com\batrits\utils\AliyunOSSOperator.class
+com\batrits\utils\CurrentHolder.class
+com\batrits\utils\AliyunOSSProperties.class

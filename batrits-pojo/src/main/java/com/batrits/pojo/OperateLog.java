@@ -1,0 +1,19 @@
+package com.batrits.pojo;
+
+import lombok.Data;
+
+import java.time.LocalDateTime;
+
+@Data
+public class OperateLog {
+    private Integer id;
+    private Integer operateEmpId;//操作人的员工id
+    private LocalDateTime operateTime;
+    private String className;
+    private String methodName;
+    private String methodParams;
+    private String returnValue;
+    private Long costTime;
+
+    private String operateEmpName;//操作人的姓名
+}
