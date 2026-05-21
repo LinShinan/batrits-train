@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88f1bbc2-3fe4-4c57-ade8-722ee4990211" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/sql/train_only_init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/train_with_testdata.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/batrits-management/src/main/java/com/batrits/filter/TokenFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/batrits-management/src/main/java/com/batrits/filter/TokenFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/batrits-management/src/main/java/com/batrits/service/impl/EmpServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/batrits-management/src/main/java/com/batrits/service/impl/EmpServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/batrits-utils/src/main/java/com/batrits/utils/AliyunOSSProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/batrits-utils/src/main/java/com/batrits/utils/AliyunOSSProperties.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +44,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BatritsManagementApplication (1).executor": "Debug",
-    "Application.BatritsManagementApplication.executor": "Run",
+    "Application.BatritsManagementApplication.executor": "Debug",
     "Application.TliasWebManagementApplication.executor": "Debug",
     "Maven.batrits-train [clean].executor": "Run",
     "Maven.batrits-train [compile].executor": "Run",
@@ -54,7 +59,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Project/JavaCode/batrits-train/pom.xml",
+    "last_opened_file_path": "D:/Project/JavaCode/batrits-train/sql",
     "onboarding.tips.debug.path": "D:/Project/JavaCode/web-ai-project03/tlias-parent/src/main/java/com/batrits/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15332031",
@@ -64,6 +69,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\JavaCode\batrits-train\sql" />
       <recent name="D:\Project\JavaCode\web-ai-project03\tlias-utils\src\main\java\com\batrits" />
       <recent name="D:\Project\JavaCode\web-ai-project03\tlias-pojo\src\main\java\com\batrits" />
       <recent name="D:\Project\JavaCode\web-ai-project03" />

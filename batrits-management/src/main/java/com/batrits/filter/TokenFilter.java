@@ -48,9 +48,12 @@ public class TokenFilter implements Filter {
         }
 
         log.info("令牌合法，放行...");
-        filterChain.doFilter(request,response);
-
-        CurrentHolder.remove();
+        //防止参数脏数据
+        try{
+            filterChain.doFilter(request,response);
+        }finally{
+            CurrentHolder.remove();
+        }
 
     }
 }

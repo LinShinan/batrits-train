@@ -113,7 +113,6 @@ public class EmpServiceImpl implements EmpService {
         empExprMapper.deleteBatch(ids);
     }
 
-    @Transactional(rollbackFor={Exception.class})
     @Override
     public Emp getEmpInfoById(Integer id) {
         //method1
@@ -125,6 +124,7 @@ public class EmpServiceImpl implements EmpService {
         return empMapper.getEmpInfoById(id);
     }
 
+    @Transactional
     @Override
     public void update(Emp emp) {
         //修改基本信息
